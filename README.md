@@ -660,9 +660,13 @@ https://github.com/HpWens/MeiWidgetView
 https://github.com/HpWens/SpiderWebView
 
 希望有志之士能够与我一起维护「控件人生」公众号。
+
 ![qrcode_for_gh_232b5a56667d_258.jpg](https://upload-images.jianshu.io/upload_images/2258857-27f4e8c3d79e6204.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240#pic_center)
-<center > 扫一扫 关注我的公众号 </center> 
-<center> 想了解更多炫酷控件吗~ </center>
+
+
+<div align=center>扫一扫 关注我的公众号</div>
+
+<div align=center>想了解更多炫酷控件吗~</div>
 
 
 
