@@ -661,8 +661,7 @@ https://github.com/HpWens/SpiderWebView
 
 希望有志之士能够与我一起维护「控件人生」公众号。
 
-![qrcode_for_gh_232b5a56667d_258.jpg](https://upload-images.jianshu.io/upload_images/2258857-27f4e8c3d79e6204.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240#pic_center)
-
+<div align=center><img src="https://upload-images.jianshu.io/upload_images/2258857-196f00b808ab8668.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200px"/></div>
 
 <div align=center>扫一扫 关注我的公众号</div>
 
